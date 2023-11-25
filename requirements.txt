@@ -1,1 +1,3 @@
+pip install streamlit nltk
+streamlit run ngram_app.py
 
